@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion 2017.3.1\bin\cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\G-Smoove\Comp280\spring-2018-program-5-binary-search-tree-GaryAllen4
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/G-Smoove/Comp280/spring-2018-program-5-binary-search-tree-GaryAllen4/cmake-build-debug

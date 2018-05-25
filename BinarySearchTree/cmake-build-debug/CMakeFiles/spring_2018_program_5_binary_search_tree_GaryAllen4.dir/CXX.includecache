@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/G-Smoove/Comp280/spring-2018-program-5-binary-search-tree-GaryAllen4/BinarySearchTree.cpp
+BinarySearchTree.h
+C:/Users/G-Smoove/Comp280/spring-2018-program-5-binary-search-tree-GaryAllen4/BinarySearchTree.h
+iostream
+-
+
+C:/Users/G-Smoove/Comp280/spring-2018-program-5-binary-search-tree-GaryAllen4/BinarySearchTree.h
+
+C:/Users/G-Smoove/Comp280/spring-2018-program-5-binary-search-tree-GaryAllen4/main.cpp
+iostream
+-
+BinarySearchTree.h
+C:/Users/G-Smoove/Comp280/spring-2018-program-5-binary-search-tree-GaryAllen4/BinarySearchTree.h
+
