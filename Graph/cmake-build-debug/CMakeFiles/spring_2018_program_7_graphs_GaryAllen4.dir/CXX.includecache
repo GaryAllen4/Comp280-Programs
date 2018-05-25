@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/G-Smoove/Comp280/spring-2018-program-7-graphs-GaryAllen4/Graph.cpp
+iostream
+-
+Graph.h
+C:/Users/G-Smoove/Comp280/spring-2018-program-7-graphs-GaryAllen4/Graph.h
+queue
+-
+stack
+-
+
+C:/Users/G-Smoove/Comp280/spring-2018-program-7-graphs-GaryAllen4/Graph.h
+
+C:/Users/G-Smoove/Comp280/spring-2018-program-7-graphs-GaryAllen4/main.cpp
+iostream
+-
+Graph.h
+C:/Users/G-Smoove/Comp280/spring-2018-program-7-graphs-GaryAllen4/Graph.h
+algorithm
+-
+
